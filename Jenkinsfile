@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/RinkalAdesaraTops/FinalAwsdemo.git'
+                git url: 'https://github.com/Chirag-Joshi-1998/FinalAwsdemo-master.git'
             }
         }
 
